@@ -1,0 +1,4 @@
+CREATE TABLE person (
+    id UUID NOT NULL PRIMARY Key,
+    name VARCHAR(100) NOT NULL
+);
